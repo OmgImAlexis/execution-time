@@ -14,7 +14,9 @@
     "url": "git+https://github.com/svenkatreddy/execution-time.git"
   },
   "files": [
-    "dist"
+    "dist/index.d.ts",
+    "dist/index.d.ts.map",
+    "dist/index.js"
   ],
   "keywords": [
     "hrtime",
